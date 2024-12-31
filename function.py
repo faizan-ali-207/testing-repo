@@ -5,5 +5,5 @@ x = int(input("Enter first no:"))
 y = int(input("Enter your 2nd no:"))
 print("Your ans is :",sum(x,y))
 
-#KEY word arguments
+#KEY word argument
 #print("Your ans is :",sum(n2=x,n1=y))
